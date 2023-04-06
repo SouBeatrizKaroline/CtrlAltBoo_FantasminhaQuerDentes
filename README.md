@@ -1,6 +1,6 @@
 # Fantasminha Quer Dentes
 
-![preview](./img/readme/previa.png)
+![preview](./imagem/readme/previa.png)
 
 > 2022
 
