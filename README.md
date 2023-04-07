@@ -8,7 +8,6 @@ Construído durante o Holloween, no CTRL ALT Boo
 
 [🔗 Clique aqui para acessar](https://soubeatrizkaroline.github.io/CtrlAltBoo_FantasminhaQuerDentes/)
 
-
 ## 🛠 Tecnologias
 
 - HTML
